@@ -1,5 +1,6 @@
 import styles from '../styles/Home.module.css'
-import Header from '../public/Components/Header/Header'
+import Header from '../Components/Header/Header'
+import ImageLoader from '../Services/ImageLoader/ImageLoader'
 
 export default function Home() {
   return (

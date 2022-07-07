@@ -1,0 +1,26 @@
+.container {
+  height: 7vh;
+  width: 100vw;
+
+  background-color: #c7ddcc;
+  display: inline-flex;
+}
+
+.logoSection {
+  width: 20%;
+  display: flex;
+  flex-flow: column wrap;
+
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  position: relative;
+}
+
+.searchSection {
+  width: 50%;
+}
+
+.buttonsSection {
+  width: 30%;
+}
